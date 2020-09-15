@@ -50,7 +50,7 @@
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.BROWSABLE" />
                 <category android:name="android.intent.category.DEFAULT"/>
-                <data android:scheme="https" android:host="td.bits-hyderabad.ac.in"
+                <data android:scheme="https" android:host="mcc.physicskerala.in/mcq"
                     android:pathPrefix="/fileShare" />
             </intent-filter>
 
